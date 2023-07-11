@@ -9,6 +9,11 @@
 ### Andreza Tuanny Duarte Silva
 
 - Cidade: João Pessoa
-- Idade: 31
+- Idade: 28
 - Trilha: QA
 
+### Daniel Albino de Castro Ferraz
+
+- Cidade: Olinda
+- Idade: 30
+- Trilha: QA
