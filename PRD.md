@@ -3,7 +3,7 @@
 ### Allan Robert Teles de Brito
 
 - Cidade: Aracaju
-- Idade: 31 
+- Idade: 31
 - Trilha: QA
 
 ### Andreza Tuanny Duarte Silva
@@ -23,3 +23,9 @@
 - Cidade: Campina Grande
 - Idade: 23
 - Trilha: Frontend
+
+### Deyvison Ramos da Silva
+
+- Cidade: Rio de Janeiro
+- Idade: 40
+- Trilha: Backend
