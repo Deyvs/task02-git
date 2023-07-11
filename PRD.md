@@ -17,3 +17,9 @@
 - Cidade: Olinda
 - Idade: 30
 - Trilha: QA
+
+### Davi Kennedy Veras Barbosa Lima
+
+- Cidade: Campina Grande
+- Idade: 23
+- Trilha: Frontend
